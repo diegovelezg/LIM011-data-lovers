@@ -130,7 +130,7 @@ y de equipo.
 * Este proyecto se debe resolver en duplas.
 * El proyecto será entregado subiendo tu código a GitHub (`commit`/`push`) y la
   interfaz será desplegada usando [GitHub Pages](https://pages.github.com/).
-* Tiempo: toma como referencia 3 semanas.
+* Tiempo: toma como referencia 4 semanas (4 Sprints de 1 semana cada uno).
 
 ## 5. Criterios de aceptación mínimos del proyecto
 
